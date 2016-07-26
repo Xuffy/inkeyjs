@@ -1,0 +1,23 @@
+{
+  "name": "@spider/inkeyjs",
+  "version": "2.0.4",
+  "description": "秒赚基础库",
+  "main": "lib/core.js",
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jsdoc": "^0.1.5",
+    "gulp-webserver": "^0.9.1",
+    "jaguarjs-jsdoc": "0.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gaopan",
+  "license": "ISC",
+  "dependencies": {
+    "@spider/mod": "0.0.1"
+  }
+}
